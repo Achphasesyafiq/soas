@@ -1,5 +1,5 @@
 streamlit
-opencv-python-headles
+opencv_python_headless
 streamlit.components.v1
 numpy
 Pillow
