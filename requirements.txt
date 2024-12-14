@@ -1,3 +1,0 @@
-streamlit
-networkx
-matplolib.pyplot
